@@ -63,14 +63,4 @@ Sample data visualization:
 
 ![Data sample](images/data_sample.svg)
 
-## Results
-
-Check the notebook's evaluation section for model metrics, confusion matrices, and feature importances.
-
-## License
-
-This repository is provided as-is for educational use.
-
-## Contact
-
-Questions or suggestions — open an issue or contact the project owner.
+---
