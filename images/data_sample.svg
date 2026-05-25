@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="240" viewBox="0 0 720 240">
+  <rect width="720" height="240" fill="#ffffff"/>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#374151">
+    <text x="20" y="24" font-size="16" font-weight="700">Sample: Monthly Churn by Segment</text>
+    <!-- Bars -->
+    <rect x="80" y="60" width="80" height="120" fill="#3b82f6"/>
+    <rect x="180" y="90" width="80" height="90" fill="#60a5fa"/>
+    <rect x="280" y="40" width="80" height="140" fill="#93c5fd"/>
+    <rect x="380" y="120" width="80" height="60" fill="#bfdbfe"/>
+
+    <text x="120" y="200" text-anchor="middle">A</text>
+    <text x="220" y="200" text-anchor="middle">B</text>
+    <text x="320" y="200" text-anchor="middle">C</text>
+    <text x="420" y="200" text-anchor="middle">D</text>
+  </g>
+</svg>
